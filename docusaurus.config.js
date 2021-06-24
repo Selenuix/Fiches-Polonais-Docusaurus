@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Selenuix', // Usually your GitHub org/user name.
-  projectName: 'Fiches-Polonais', // Usually your repo name.
+  projectName: 'Fiches-Polonais-Docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Fiches Polonais',
