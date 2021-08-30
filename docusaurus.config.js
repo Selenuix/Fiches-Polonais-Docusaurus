@@ -12,6 +12,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'Selenuix', // Usually your GitHub org/user name.
   projectName: 'Fiches-Polonais-Docusaurus', // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'Fiches Polonais',
