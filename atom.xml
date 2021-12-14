@@ -2,116 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://polonais.selenuix.tools/</id>
     <title>Fiches-Polonais Blog</title>
-    <updated>2021-09-08T10:28:31.512Z</updated>
+    <updated>2021-06-24T19:45:09.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://polonais.selenuix.tools/"/>
     <subtitle>Fiches-Polonais Blog</subtitle>
     <icon>https://polonais.selenuix.tools/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[9. Top 25 des verbes]]></title>
-        <id>9-top-25-des-verbes</id>
-        <link href="https://polonais.selenuix.tools/9-top-25-des-verbes"/>
-        <updated>2021-09-08T10:28:31.512Z</updated>
-        <summary type="html"><![CDATA[1. Być (prononciation)]]></summary>
-        <author>
-            <name>CISZEK Anthony</name>
-            <uri>https://github.com/Selenuix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6. Les nombres de 0 à 10]]></title>
-        <id>6-les-nombres-de-0-a-10</id>
-        <link href="https://polonais.selenuix.tools/6-les-nombres-de-0-a-10"/>
-        <updated>2021-09-08T10:28:31.511Z</updated>
-        <summary type="html"><![CDATA[Zero (prononciation)]]></summary>
-        <author>
-            <name>CISZEK Anthony</name>
-            <uri>https://github.com/Selenuix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7. Les nombres de 11 à 100]]></title>
-        <id>7-les-nombres-de-11-a-100</id>
-        <link href="https://polonais.selenuix.tools/7-les-nombres-de-11-a-100"/>
-        <updated>2021-09-08T10:28:31.511Z</updated>
-        <summary type="html"><![CDATA[Jedenaście (prononciation)]]></summary>
-        <author>
-            <name>CISZEK Anthony</name>
-            <uri>https://github.com/Selenuix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8. Combien ?]]></title>
-        <id>8-combien</id>
-        <link href="https://polonais.selenuix.tools/8-combien"/>
-        <updated>2021-09-08T10:28:31.511Z</updated>
-        <summary type="html"><![CDATA[De manière informelle]]></summary>
-        <author>
-            <name>CISZEK Anthony</name>
-            <uri>https://github.com/Selenuix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4. Parles-tu français ?]]></title>
-        <id>4-parles-tu-francais</id>
-        <link href="https://polonais.selenuix.tools/4-parles-tu-francais"/>
-        <updated>2021-09-08T10:28:31.510Z</updated>
-        <summary type="html"><![CDATA[De manière informelle]]></summary>
-        <author>
-            <name>CISZEK Anthony</name>
-            <uri>https://github.com/Selenuix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5. S'excuser]]></title>
-        <id>5-s-excuser</id>
-        <link href="https://polonais.selenuix.tools/5-s-excuser"/>
-        <updated>2021-09-08T10:28:31.510Z</updated>
-        <summary type="html"><![CDATA[De manière informelle]]></summary>
-        <author>
-            <name>CISZEK Anthony</name>
-            <uri>https://github.com/Selenuix</uri>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[13. La nourriture]]></title>
         <id>13-la-nourriture</id>
         <link href="https://polonais.selenuix.tools/13-la-nourriture"/>
-        <updated>2021-09-08T10:28:31.509Z</updated>
+        <updated>2021-06-24T19:45:09.871Z</updated>
         <summary type="html"><![CDATA[Vocabulaire général]]></summary>
-        <author>
-            <name>CISZEK Anthony</name>
-            <uri>https://github.com/Selenuix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2. Merci & de rien]]></title>
-        <id>2-merci-et-de-rien</id>
-        <link href="https://polonais.selenuix.tools/2-merci-et-de-rien"/>
-        <updated>2021-09-08T10:28:31.509Z</updated>
-        <summary type="html"><![CDATA[Merci]]></summary>
-        <author>
-            <name>CISZEK Anthony</name>
-            <uri>https://github.com/Selenuix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3. Saluer]]></title>
-        <id>3-saluer</id>
-        <link href="https://polonais.selenuix.tools/3-saluer"/>
-        <updated>2021-09-08T10:28:31.509Z</updated>
-        <summary type="html"><![CDATA[De manière informelle]]></summary>
-        <author>
-            <name>CISZEK Anthony</name>
-            <uri>https://github.com/Selenuix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11. Demander de l'aide]]></title>
-        <id>11-demader-de-l-aide</id>
-        <link href="https://polonais.selenuix.tools/11-demader-de-l-aide"/>
-        <updated>2021-09-08T10:28:31.508Z</updated>
-        <summary type="html"><![CDATA[De manière informelle]]></summary>
         <author>
             <name>CISZEK Anthony</name>
             <uri>https://github.com/Selenuix</uri>
@@ -121,7 +22,7 @@
         <title type="html"><![CDATA[12. "A ty" et "Co u Ciebie" - mieux comprendre]]></title>
         <id>12-a-ty-et-co-u-ciebie-mieux-comprendre</id>
         <link href="https://polonais.selenuix.tools/12-a-ty-et-co-u-ciebie-mieux-comprendre"/>
-        <updated>2021-09-08T10:28:31.508Z</updated>
+        <updated>2021-06-24T19:43:02.681Z</updated>
         <summary type="html"><![CDATA[A ty]]></summary>
         <author>
             <name>CISZEK Anthony</name>
@@ -129,10 +30,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1. Se présenter en Polonais]]></title>
-        <id>1-se-presenter</id>
-        <link href="https://polonais.selenuix.tools/1-se-presenter"/>
-        <updated>2021-09-08T10:28:31.507Z</updated>
+        <title type="html"><![CDATA[11. Demander de l'aide]]></title>
+        <id>11-demader-de-l-aide</id>
+        <link href="https://polonais.selenuix.tools/11-demader-de-l-aide"/>
+        <updated>2021-06-24T19:40:56.379Z</updated>
         <summary type="html"><![CDATA[De manière informelle]]></summary>
         <author>
             <name>CISZEK Anthony</name>
@@ -143,8 +44,107 @@
         <title type="html"><![CDATA[10. Les émotions]]></title>
         <id>10-les-emotions</id>
         <link href="https://polonais.selenuix.tools/10-les-emotions"/>
-        <updated>2021-09-08T10:28:31.507Z</updated>
+        <updated>2021-06-24T19:37:47.613Z</updated>
         <summary type="html"><![CDATA[Positives]]></summary>
+        <author>
+            <name>CISZEK Anthony</name>
+            <uri>https://github.com/Selenuix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9. Top 25 des verbes]]></title>
+        <id>9-top-25-des-verbes</id>
+        <link href="https://polonais.selenuix.tools/9-top-25-des-verbes"/>
+        <updated>2021-06-24T19:35:53.673Z</updated>
+        <summary type="html"><![CDATA[1. Być (prononciation)]]></summary>
+        <author>
+            <name>CISZEK Anthony</name>
+            <uri>https://github.com/Selenuix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8. Combien ?]]></title>
+        <id>8-combien</id>
+        <link href="https://polonais.selenuix.tools/8-combien"/>
+        <updated>2021-06-24T19:34:07.545Z</updated>
+        <summary type="html"><![CDATA[De manière informelle]]></summary>
+        <author>
+            <name>CISZEK Anthony</name>
+            <uri>https://github.com/Selenuix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7. Les nombres de 11 à 100]]></title>
+        <id>7-les-nombres-de-11-a-100</id>
+        <link href="https://polonais.selenuix.tools/7-les-nombres-de-11-a-100"/>
+        <updated>2021-06-24T19:30:33.355Z</updated>
+        <summary type="html"><![CDATA[Jedenaście (prononciation)]]></summary>
+        <author>
+            <name>CISZEK Anthony</name>
+            <uri>https://github.com/Selenuix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6. Les nombres de 0 à 10]]></title>
+        <id>6-les-nombres-de-0-a-10</id>
+        <link href="https://polonais.selenuix.tools/6-les-nombres-de-0-a-10"/>
+        <updated>2021-06-24T19:28:23.963Z</updated>
+        <summary type="html"><![CDATA[Zero (prononciation)]]></summary>
+        <author>
+            <name>CISZEK Anthony</name>
+            <uri>https://github.com/Selenuix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5. S'excuser]]></title>
+        <id>5-s-excuser</id>
+        <link href="https://polonais.selenuix.tools/5-s-excuser"/>
+        <updated>2021-06-24T19:26:34.673Z</updated>
+        <summary type="html"><![CDATA[De manière informelle]]></summary>
+        <author>
+            <name>CISZEK Anthony</name>
+            <uri>https://github.com/Selenuix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4. Parles-tu français ?]]></title>
+        <id>4-parles-tu-francais</id>
+        <link href="https://polonais.selenuix.tools/4-parles-tu-francais"/>
+        <updated>2021-06-24T19:15:38.535Z</updated>
+        <summary type="html"><![CDATA[De manière informelle]]></summary>
+        <author>
+            <name>CISZEK Anthony</name>
+            <uri>https://github.com/Selenuix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3. Saluer]]></title>
+        <id>3-saluer</id>
+        <link href="https://polonais.selenuix.tools/3-saluer"/>
+        <updated>2021-06-24T19:12:13.531Z</updated>
+        <summary type="html"><![CDATA[De manière informelle]]></summary>
+        <author>
+            <name>CISZEK Anthony</name>
+            <uri>https://github.com/Selenuix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2. Merci & de rien]]></title>
+        <id>2-merci-et-de-rien</id>
+        <link href="https://polonais.selenuix.tools/2-merci-et-de-rien"/>
+        <updated>2021-06-24T19:10:03.120Z</updated>
+        <summary type="html"><![CDATA[Merci]]></summary>
+        <author>
+            <name>CISZEK Anthony</name>
+            <uri>https://github.com/Selenuix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1. Se présenter en Polonais]]></title>
+        <id>1-se-presenter</id>
+        <link href="https://polonais.selenuix.tools/1-se-presenter"/>
+        <updated>2021-06-24T19:03:20.827Z</updated>
+        <summary type="html"><![CDATA[De manière informelle]]></summary>
         <author>
             <name>CISZEK Anthony</name>
             <uri>https://github.com/Selenuix</uri>
