@@ -27,7 +27,10 @@ This command generates static content into the `build` directory and can be serv
 ## Deployment
 
 ```console
+# Bash
 GIT_USER=Selenuix USE_SSH=true yarn deploy
+
+# Windows
 cmd /C "set "GIT_USER=Selenuix" && npm run deploy"
 ```
 
