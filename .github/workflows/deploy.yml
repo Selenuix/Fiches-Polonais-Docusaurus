@@ -19,8 +19,8 @@ jobs:
         with:
           node-version: 16.x
           cache: npm
-      - name: Build website
-        working-directory: website
+      - name: Build blog
+        working-directory: blog
         run: |
           npm install
           npm run build
