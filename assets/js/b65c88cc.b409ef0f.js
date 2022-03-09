@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfiches_polonais=self.webpackChunkfiches_polonais||[]).push([[570],{4916:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/excuses","name":"excuses","count":1,"permalink":"/tags/excuses"}')}}]);

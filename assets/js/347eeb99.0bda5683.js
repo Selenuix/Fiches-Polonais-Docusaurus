@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfiches_polonais=self.webpackChunkfiches_polonais||[]).push([[407],{8002:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/nombres","name":"nombres","count":2,"permalink":"/tags/nombres"}')}}]);

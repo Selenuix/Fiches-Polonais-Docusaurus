@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfiches_polonais=self.webpackChunkfiches_polonais||[]).push([[804],{4706:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/aide","name":"aide","count":1,"permalink":"/tags/aide"}')}}]);
