@@ -34,4 +34,8 @@ git commit -m "[message]"
 git push
 ```
 
+```
+npm i @docusaurus/core@latest @docusaurus/preset-classic@latest
+```
+
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
