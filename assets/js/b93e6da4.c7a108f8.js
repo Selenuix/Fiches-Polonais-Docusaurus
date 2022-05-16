@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfiches_polonais=self.webpackChunkfiches_polonais||[]).push([[4136],{6161:function(s){s.exports=JSON.parse('{"label":"memo","permalink":"/tags/memo","allTagsPath":"/tags","count":2}')}}]);

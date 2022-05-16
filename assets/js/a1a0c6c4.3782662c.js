@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfiches_polonais=self.webpackChunkfiches_polonais||[]).push([[5757],{2485:function(s){s.exports=JSON.parse('{"label":"questions","permalink":"/tags/questions","allTagsPath":"/tags","count":2}')}}]);

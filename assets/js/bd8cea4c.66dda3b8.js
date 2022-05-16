@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfiches_polonais=self.webpackChunkfiches_polonais||[]).push([[5259],{3842:function(e){e.exports=JSON.parse('{"permalink":"/tags/verbes","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Un moyen rapide de retrouver mes notes.","blogTitle":"Fiches-Polonais"}')}}]);

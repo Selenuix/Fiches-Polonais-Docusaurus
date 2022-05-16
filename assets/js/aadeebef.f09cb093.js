@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfiches_polonais=self.webpackChunkfiches_polonais||[]).push([[8425],{1389:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/basics","name":"basics","count":13,"permalink":"/tags/basics"}')}}]);
