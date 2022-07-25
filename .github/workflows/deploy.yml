@@ -8,6 +8,11 @@ on:
       - '.github/workflows/deploy.yml'
       - 'blog/**'
   pull_request:
+    branches:
+      - master
+      paths:
+        - '.github/workflows/deploy.yml'
+        - 'blog/**'
 
 jobs:
   deploy:
