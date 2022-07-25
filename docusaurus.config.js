@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Fiches-Polonais',
   tagline: 'Un moyen rapide de retrouver mes notes.',
-  url: 'https://polonais.selenuix.tools',
+  url: 'https://polonais.ciszekanthony.fr/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
