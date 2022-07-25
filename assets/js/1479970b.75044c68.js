@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfiches_polonais=self.webpackChunkfiches_polonais||[]).push([[5168],{27:function(s){s.exports=JSON.parse('{"label":"verbes","permalink":"/tags/verbes","allTagsPath":"/tags","count":2}')}}]);

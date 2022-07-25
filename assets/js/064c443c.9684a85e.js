@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfiches_polonais=self.webpackChunkfiches_polonais||[]).push([[8533],{5748:e=>{e.exports=JSON.parse('{"permalink":"/tags/aide","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Un moyen rapide de retrouver mes notes.","blogTitle":"Fiches-Polonais"}')}}]);
