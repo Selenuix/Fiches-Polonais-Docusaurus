@@ -10,9 +10,9 @@ on:
   pull_request:
     branches:
       - master
-      paths:
-        - '.github/workflows/deploy.yml'
-        - 'blog/**'
+    paths:
+      - '.github/workflows/deploy.yml'
+      - 'blog/**'
 
 jobs:
   deploy:
