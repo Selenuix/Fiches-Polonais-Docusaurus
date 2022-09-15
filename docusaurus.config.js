@@ -54,7 +54,7 @@ module.exports = {
           blogDescription: 'Un moyen rapide de retrouver mes notes.',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Selenuix/Fiches-Polonais-Docusaurus/tree/develop/',
+            'https://github.com/Selenuix/Fiches-Polonais-Docusaurus/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
