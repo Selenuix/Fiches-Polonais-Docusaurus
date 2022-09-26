@@ -25,10 +25,6 @@
           "value" : "1; mode=block"
         },
         {
-          "key": "Content-Security-Policy",
-          "value": "default-src 'self'; img-src https://*;object-src https://ciszekanthony.fr/; child-src 'none';connect-src vitals.vercel-insights.com"
-        },
-        {
           "key": "x-vercel-deployment-url",
           "value": "https://ciszekanthony.fr/"
         }
