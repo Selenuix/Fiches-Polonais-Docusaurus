@@ -26,11 +26,11 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; object-src https://polonais.ciszekanthony.fr/; img-src https://*; child-src 'none'"
+          "value": "default-src 'self'; object-src 'none'; img-src https://*; child-src 'none'"
         },
         {
           "key": "x-vercel-deployment-url",
-          "value": "https://ciszekanthony.fr/"
+          "value": "https://polonais.ciszekanthony.fr/"
         }
       ]
     },
