@@ -1,6 +1,6 @@
 # Website
 
-**[![GitGuardian Scan](https://github.com/Selenuix/Fiches-Polonais-Docusaurus/actions/workflows/gitguardian.yml/badge.svg?branch=master&event=push)](https://github.com/Selenuix/Fiches-Polonais-Docusaurus/actions/workflows/gitguardian.yml)**
+**[![GitGuardian Scan](https://github.com/Selenuix/Fiches-Polonais-Docusaurus/actions/workflows/analyse.yml/badge.svg?branch=master&event=push)](https://github.com/Selenuix/Fiches-Polonais-Docusaurus/actions/workflows/gitguardian.yml)**
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
