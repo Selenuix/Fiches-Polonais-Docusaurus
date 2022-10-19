@@ -9,12 +9,10 @@ public_folder: "/img/" # The src attribute for uploaded media will begin with /i
 
 collections:
 - name: blog
-  label: "blog"
+  label: "Post"
   folder: blog
   identifier_field: title
-  #extension: md
-  extension: mdx
-  format: frontmatter
+  extension: md
   widget: "list"
   create: true
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md

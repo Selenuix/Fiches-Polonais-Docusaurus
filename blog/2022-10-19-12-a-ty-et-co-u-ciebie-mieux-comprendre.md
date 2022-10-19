@@ -10,8 +10,6 @@ tags:
   - memo
 ---
 
-
-
 ## A ty
 
 - "Jak się masz?" **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/12-1.mp3)** <br />

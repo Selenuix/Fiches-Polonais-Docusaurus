@@ -11,8 +11,6 @@ tags:
   - vocabulaire
 ---
 
-
-
 ## Vocabulaire général
 
 Jedzenie **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-1.mp3)** <br />

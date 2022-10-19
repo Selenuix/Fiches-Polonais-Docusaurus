@@ -10,8 +10,6 @@ tags:
   - aide
 ---
 
-
-
 ## De manière informelle
 
 Możesz to wyjaśnić? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/11-1.mp3)** <br />
