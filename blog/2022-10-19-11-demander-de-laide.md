@@ -1,0 +1,33 @@
+---
+author: CISZEK Anthony
+author_title: Polish Learner
+author_url: https://github.com/Selenuix
+author_image_url: https://avatars.githubusercontent.com/u/29508475?v=4
+title: 11. Demander de l'aide
+slug: 11-demader-de-l-aide
+tags:
+  - basics
+  - aide
+---
+
+## De manière informelle
+
+Możesz to wyjaśnić? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/11-1.mp3)** <br />
+Peux-tu expliquer ça ?
+
+Czy mogę cię o coś zapytać? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/11-2.mp3)** <br />
+Est-ce que je peux te demander quelque chose ?
+
+## De manière formelle
+
+:man: Czy może Pan to wyjaśnić? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/11-3.mp3)** <br />
+Pouvez-vous expliquer cela, monsieur ?
+
+:woman: Czy może Pani to wyjaśnić? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/11-4.mp3)** <br />
+Pouvez-vous expliquer cela, madame ?
+
+:man: Czy mogę pana o coś zapytać? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/11-5.mp3)** <br />
+Est-ce que je peux vous demander quelque chose ?
+
+:woman: Czy mogę panią o coś zapytać? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/11-6.mp3)** <br />
+Est-ce que je peux vous demander quelque chose ?

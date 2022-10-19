@@ -1,0 +1,644 @@
+---
+author: CISZEK Anthony
+author_title: Polish Learner
+author_url: https://github.com/Selenuix
+author_image_url: https://avatars.githubusercontent.com/u/29508475?v=4
+lastmod: 2022-06-24T08:34:07.778Z
+title: 13. La nourriture
+slug: 13-la-nourriture
+tags:
+  - basics
+  - vocabulaire
+---
+
+## Vocabulaire général
+
+Jedzenie **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-1.mp3)** <br />
+La nourriture
+
+Jeść **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-2.mp3)** <br />
+Manger
+
+Pić **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-3.mp3)** <br />
+Boire
+
+Jeść, pić **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-4.mp3)** <br />
+Prendre (un café, un repas, ...)
+
+Głód **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-5.mp3)** <br />
+La faim
+
+Pragnienie **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-6.mp3)** <br />
+La soif
+
+Posiłek **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-7.mp3)** <br />
+Le repas
+
+Śniadanie **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-8.mp3)** <br />
+Le petit-déjeuner
+
+Obiad, posiłek południowy **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-9.mp3)** <br />
+Le déjeuner
+
+Kolacja **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-10.mp3)** <br />
+Le dîner
+
+Danie **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-11.mp3)** <br />
+Le plat
+
+Deser **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-12.mp3)** <br />
+Le dessert
+
+## Le goût
+
+Smak **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-13.mp3)** <br />
+Le goût
+
+Słodki **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-14.mp3)** <br />
+Sucré(e)
+
+Słony(słona) **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-15.mp3)** <br />
+Salé(e)
+
+Kwaśny (kwaśna) **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-16.mp3)** <br />
+Acide
+
+Gorzki (gorzka) **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-17.mp3)** <br />
+Amer(ère)
+
+## Produits laitiers
+
+Produkty mleczarskie **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-18.mp3)** <br />
+Les laitages
+
+Mleko **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-19.mp3)** <br />
+Le lait
+
+Masło **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-20.mp3)** <br />
+Le beurre
+
+Śmietana **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-21.mp3)** <br />
+La crème
+
+Ser **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-22.mp3)** <br />
+Le fromage
+
+Jogurt **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-23.mp3)** <br />
+Le yaourt
+
+## Le pain et quelques pâtisseries
+
+Chleb **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-24.mp3)** <br />
+Le pain
+
+Bagietka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-25.mp3)** <br />
+La baguette
+
+Rogalik francuski **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-26.mp3)** <br />
+Le croissant
+
+Brioszka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-27.mp3)** <br />
+La brioche
+
+Słodka bułka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-28.mp3)** <br />
+Le petit pain (au lait)
+
+Plaster, kromka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-29.mp3)** <br />
+La tranche¹
+
+## Les tartines
+
+Konfitura **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-30.mp3)** <br />
+La confiture
+
+Mus **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-31.mp3)** <br />
+La compote
+
+Miód **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-32.mp3)** <br />
+Le miel
+
+Kanapka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-33.mp3)** <br />
+La tartine
+
+Smarować **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-34.mp3)** <br />
+Tartiner
+
+## Féculents
+
+Skrobia **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-35.mp3)** <br />
+Les féculents
+
+Ryż **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-36.mp3)** <br />
+Le riz
+
+Makaron **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-37.mp3)** <br />
+Les pâtes
+
+Mąka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-38.mp3)** <br />
+La farine
+
+Skrobia kukurydziana **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-39.mp3)** <br />
+La fécule de maïs
+
+## Soupe et conserves
+
+Puszka konserwy **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-40.mp3)** <br />
+La boîte de conserve
+
+Zupa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-41.mp3)** <br />
+La soupe
+
+## Condiments et épices
+
+Przyprawy, olej... **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-42.mp3)** <br />
+Condiments, huile, ...
+
+Sól **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-43.mp3)** <br />
+Le sel
+
+Pieprz **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-44.mp3)** <br />
+Le poivre
+
+Olej **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-45.mp3)** <br />
+L'huile
+
+Oliwa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-46.mp3)** <br />
+L'huile d'olive
+
+Goździk **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-47.mp3)** <br />
+Le clou de girofle
+
+Gałka muszkatałowa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-48.mp3)** <br />
+La noix de muscade
+
+Cynamon **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-49.mp3)** <br />
+La cannelle
+
+Szafran **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-50.mp3)** <br />
+Le safran
+
+Curry **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-51.mp3)** <br />
+Le curry
+
+Kurkuma **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-52.mp3)** <br />
+Le curcuma
+
+Imbir **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-53.mp3)** <br />
+Le gingembre
+
+Ocet vinny **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-54.mp3)** <br />
+Le vinaigre de vin
+
+Wanilia **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-55.mp3)** <br />
+La vanille
+
+Kapary **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-56.mp3)** <br />
+La câpre
+
+Majeranek **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-57.mp3)** <br />
+La marjolaine
+
+Bazylia **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-58.mp3)** <br />
+Le basilic
+
+Kolendra **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-59.mp3)** <br />
+La coriandre
+
+Rumianek **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-60.mp3)** <br />
+La camomille
+
+Chrzan **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-61.mp3)** <br />
+Le raifort
+
+Mięta **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-62.mp3)** <br />
+La menthe
+
+Szczypiorek **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-63.mp3)** <br />
+La ciboulette
+
+Pietruszka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-64.mp3)** <br />
+Le persil
+
+Czosnek **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-65.mp3)** <br />
+L'ail
+
+## Quelques légumes
+
+Warzywa, jarzyny **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-66.mp3)** <br />
+Les légumes
+
+Ziemniak **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-67.mp3)** <br />
+La pomme de terre
+
+Marchew **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-68.mp3)** <br />
+La carotte
+
+Seler **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-69.mp3)** <br />
+Le céleri
+
+oberżyna, bakłażan **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-70.mp3)** <br />
+L'aubergine
+
+Cukinia **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-71.mp3)** <br />
+La courgette
+
+Cebula **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-72.mp3)** <br />
+L'oignon
+
+Szpinak **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-73.mp3)** <br />
+Les épinards
+
+Sałatka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-74.mp3)** <br />
+La salade
+
+Fasola **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-75.mp3)** <br />
+Les haricots
+
+Zielona fasola **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-76.mp3)** <br />
+Les haricots verts
+
+Ogórek **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-77.mp3)** <br />
+Le concombre
+
+Rzodkiewka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-78.mp3)** <br />
+Le radis
+
+Kapusta **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-79.mp3)** <br />
+Le chou
+
+Grzyby **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-80.mp3)** <br />
+Les champignions
+
+Sałata **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-81.mp3)** <br />
+La laitue
+
+Kukurydza **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-82.mp3)** <br />
+Le maïs
+
+Kalafior **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-83.mp3)** <br />
+Le choux-fleur
+
+Brokuły **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-84.mp3)** <br />
+Le brocoli
+
+Por **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-85.mp3)** <br />
+Le poireau
+
+Burak **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-86.mp3)** <br />
+La betterave
+
+Groszek **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-87.mp3)** <br />
+Les pois
+
+Dynia **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-88.mp3)** <br />
+La citrouille
+
+Rzodkiewka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-89.mp3)** <br />
+Les radis
+
+Brukselka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-90.mp3)** <br />
+Les choux de Bruxelles
+
+Rzepa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-91.mp3)** <br />
+Le navet
+
+Szparagi **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-92.mp3)** <br />
+Les asperges
+
+Kalarepa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-93.mp3)** <br />
+Le chou-rave
+
+Soja **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-94.mp3)** <br />
+Le soja
+
+Szczaw **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-95.mp3)** <br />
+l’oseille
+
+Rabarbar **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-96.mp3)** <br />
+La rhubarbe
+
+Koper **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-97.mp3)** <br />
+L'aneth
+
+Karczoch **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-98.mp3)** <br />
+Un artichaud
+
+Bób **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-99.mp3)** <br />
+Des fèves
+
+Brukiew **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-100.mp3)** <br />
+Un rutabaga
+
+## Les fruits
+### Général
+
+Owoce **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-101.mp3)** <br />
+Les fruits
+
+Pomidor **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-102.mp3)** <br />
+La tomate
+
+Jabłko **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-103.mp3)** <br />
+La pomme
+
+Gruszka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-104.mp3)** <br />
+La poire
+
+Wiśnia, czereśnia **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-105.mp3)** <br />
+La cerise
+
+Śliwka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-106.mp3)** <br />
+La prune
+
+Mirabelka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-107.mp3)** <br />
+La mirabelle
+
+Brzozkwinia **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-108.mp3)** <br />
+La pêche
+
+Nektaryna **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-109.mp3)** <br />
+La nectarine
+
+Morela **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-110.mp3)** <br />
+l’abricot
+
+Figa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-111.mp3)** <br />
+La figue
+
+Daktyl **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-112.mp3)** <br />
+La date
+
+Pigwa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-113.mp3)** <br />
+Le coing
+
+Melon miodowy **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-114.mp3)** <br />
+Le melon
+
+Arbuz **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-115.mp3)** <br />
+La pastèque
+
+### Les agrumes (owoce cytrusowe)
+
+Pomarańcza **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-116.mp3)** <br />
+L'orange
+
+Cytryna **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-117.mp3)** <br />
+Le citron
+
+Limonka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-118.mp3)** <br />
+Le lime, le citron vert
+
+Grejfrut **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-119.mp3)** <br />
+Le pamplemousse
+
+Mandarynka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-120.mp3)** <br />
+La mandarine
+
+### Les baies (owoce jagodowe)
+
+Porzeczka czerwona **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-121.mp3)** <br />
+La groseille
+
+Porzeczka czarna **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-122.mp3)** <br />
+Le cassis
+
+Agrest **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-123.mp3)** <br />
+la groseille à maquereau
+
+Winogrono, rodzynki **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-124.mp3)** <br />
+Le raisin
+
+Jagoda czarna **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-125.mp3)** <br />
+La myrtille
+
+Jeżyna **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-126.mp3)** <br />
+La mûre
+
+Truskawka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-127.mp3)** <br />
+La fraise
+
+Poziomka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-128.mp3)** <br />
+La fraise des bois
+
+### Les fruits tropicaux (owoce tropikalne)
+
+Banan **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-129.mp3)** <br />
+La banane
+
+Ananas **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-130.mp3)** <br />
+L'ananas
+
+Mango **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-131.mp3)** <br />
+La mangue
+
+Papaja **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-132.mp3)** <br />
+La papaye
+
+Granat **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-133.mp3)** <br />
+La grenade
+
+Kiwi **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-134.mp3)** <br />
+Le kiwi
+
+Passiflora, marakuja **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-135.mp3)** <br />
+Le fruit de la passion
+
+Opuncja **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-136.mp3)** <br />
+La figue de Barbarie
+
+Liczi **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-137.mp3)** <br />
+Le litchi
+
+Karambola **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-138.mp3)** <br />
+La carambole, la pomme de Goa
+
+### Les fruits à coque (orzechy)
+
+Orzech włoski **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-139.mp3)** <br />
+La noix
+
+Ozech laskowy **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-140.mp3)** <br />
+La noisette
+
+Orzech ziemne, orzech arachidowe **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-141.mp3)** <br />
+La cacahuète
+
+Migdał **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-142.mp3)** <br />
+L'amande
+
+Kasztan jadalny **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-143.mp3)** <br />
+La châtaigne
+
+Pistacja **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-144.mp3)** <br />
+La pistache
+
+Orzech pekanu **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-1454.mp3)** <br />
+La noix de pécan
+
+Kokos **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-146.mp3)** <br />
+La noix de coco
+
+Orzech pini **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-147.mp3)** <br />
+Le pignon de pin
+
+### La viande
+
+Mięso **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-148.mp3)** <br />
+La viande
+
+wołowina **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-149.mp3)** <br />
+Le bœuf
+
+Wieprzowina **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-150.mp3)** <br />
+Le porc
+
+Kurczak **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-151.mp3)** <br />
+Le poulet
+
+Kiełbasa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-152.mp3)** <br />
+Le saucisson
+
+Tuńczyk **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-153.mp3)** <br />
+Le thon
+
+Cielęcina **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-154.mp3)** <br />
+Le veau
+
+Szynka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-155.mp3)** <br />
+Le jambon
+
+Jagniecina **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-156.mp3)** <br />
+L'agneau
+
+Indyk **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-157.mp3)** <br />
+La dinde
+
+Bekon **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-158.mp3)** <br />
+Le bacon
+
+Dziczyzna **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-159.mp3)** <br />
+La venaison
+
+Kiełbasa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-160.mp3)** <br />
+La saucisse
+
+## Les boissons (napoje)
+
+Woda **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-161.mp3)** <br />
+L'eau
+
+Woda mineralna **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-162.mp3)** <br />
+L'eau minérale
+
+Woda gazowana **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-163.mp3)** <br />
+L'eau gazeuse
+
+Piwo **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-164.mp3)** <br />
+La bière
+
+Wino **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-165.mp3)** <br />
+Le vin
+
+Czerwone wino **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-166.mp3)** <br />
+Le vin rouge
+
+Białe wino **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-167.mp3)** <br />
+Le vin blanc
+
+Różowe **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-168.mp3)** <br />
+Le vin rosé, le rosé
+
+Słodkie **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-169.mp3)** <br />
+Le vin moelleux
+
+Wytrawne **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-170.mp3)** <br />
+Le vin sec
+
+Musujące **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-171.mp3)** <br />
+Le vin pétillant
+
+Kawa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-172.mp3)** <br />
+Le café
+
+Kawa z ekspresu **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-173.mp3)** <br />
+Le café expresso
+
+Kawa z mlekiem **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-174.mp3)** <br />
+Le café au lait
+
+Kawa ze śmietanką **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-175.mp3)** <br />
+Le café crème
+
+Czarna kawa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-176.mp3)** <br />
+Le café noir
+
+Bezkofeinowa **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-177.mp3)** <br />
+Le café décaféiné, un décaféiné
+
+Herbata **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-178.mp3)** <br />
+Le thé
+
+Filiżanka herbaty **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-179.mp3)** <br />
+Une tasse de thé
+
+Herbata z mlekiem **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-180.mp3)** <br />
+Le thé au lait
+
+Herbata z cytryną **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-181.mp3)** <br />
+Le thé au citron
+
+Gorąca czekolada **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-182.mp3)** <br />
+Le chocolat chaud
+
+Lemoniada **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-183.mp3)** <br />
+La limonade
+
+Koktajl mleczny **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-184.mp3)** <br />
+Un milkshake
+
+Sok owocowy **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-185.mp3)** <br />
+Le jus de fruit
+
+Sok pomarańczowy **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-186.mp3)** <br />
+Le jus d'orange
+
+Sok pomidorowy **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-187.mp3)** <br />
+Le jus de tomate
+
+Wódka **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-188.mp3)** <br />
+La vodka
+
+Rum **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-189.mp3)** <br />
+Le rhum
+
+Likier **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-190.mp3)** <br />
+La liqueur
+
+Whisky **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-191.mp3)** <br />
+Le whisky
+
+## Desserts et sucreries
+
+Deser **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-192.mp3)** <br />
+Le dessert
+
+Cukier **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-193.mp3)** <br />
+Le sucre
+
+Cukierek **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-194.mp3)** <br />
+Le bonbon
+
+Ciasto, Ciastko **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-195.mp3)** <br />
+Le gâteau
+
+Tarta **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-196.mp3)** <br />
+La tarte
+
+Czekolada **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-197.mp3)** <br />
+Le chocolat
+
+Lody **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/13-198.mp3)** <br />
+La glace
+
+## Notes
+¹ Kromka est une tranche de pain. Plaster désigne une tranche de fromage ou de jambon.

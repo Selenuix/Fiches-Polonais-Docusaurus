@@ -1,29 +1,29 @@
 ---
-slug: 2-merci-et-de-rien
-title: 2. Merci & de rien
 author: CISZEK Anthony
 author_title: Polish Learner
 author_url: https://github.com/Selenuix
 author_image_url: https://avatars.githubusercontent.com/u/29508475?v=4
-tags: [basics, introduction]
+title: 2. Merci & de rien
+slug: 2-merci-et-de-rien
+tags:
+  - basics
+  - introduction
 ---
-
-import TOCInline from '@theme/TOCInline';
-
-<TOCInline toc={toc} />
 
 ## Merci
 ### De manière informelle
+
 Dzięki **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/2-1.mp3)** <br />
 Merci
 
 ### De manière formelle
+
 Dziękuję (bardzo) **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/2-2.mp3)** <br />
 Merci (beaucoup)
 
-
 ## De rien
 ### De manière informelle
+
 Nie ma za co **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/2-3.mp3)** <br />
 De rien
 

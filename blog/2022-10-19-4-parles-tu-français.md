@@ -1,22 +1,22 @@
 ---
-slug: 4-parles-tu-francais
-title: 4. Parles-tu français ?
 author: CISZEK Anthony
 author_title: Polish Learner
 author_url: https://github.com/Selenuix
 author_image_url: https://avatars.githubusercontent.com/u/29508475?v=4
-tags: [basics, questions]
+title: 4. Parles-tu français ?
+slug: 4-parles-tu-francais
+tags:
+  - basics
+  - questions
 ---
 
-import TOCInline from '@theme/TOCInline';
-
-<TOCInline toc={toc} />
-
 ## De manière informelle
+
 Czy mówisz po angielsku? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/4-1.mp3)** <br />
 Est-ce que tu parles anglais ?
 
 ## De manière formelle
+
 :man: Przepraszam, czy mówi Pan po francusku? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/4-2.mp3)** <br />
 Excusez moi, est-ce que vous parlez français, monsieur ?
 
@@ -24,6 +24,7 @@ Excusez moi, est-ce que vous parlez français, monsieur ?
 Excusez moi, est-ce que vous parlez français, madame ?
 
 ## Réponses possibles
+
 Tak **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/4-4.mp3)** <br />
 Oui
 
@@ -34,6 +35,7 @@ Nie, nie mówię po francusku **[(prononciation)](https://cdn.selenuix.tools/pol
 Non, je ne parle pas français
 
 ## Autres langues
+
 Po niemiecku **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/4-7.mp3)** <br />
 Allemand
 

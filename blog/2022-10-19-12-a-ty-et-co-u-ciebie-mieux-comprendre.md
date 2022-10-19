@@ -1,0 +1,32 @@
+---
+author: CISZEK Anthony
+author_title: Polish Learner
+author_url: https://github.com/Selenuix
+author_image_url: https://avatars.githubusercontent.com/u/29508475?v=4
+title: 12. "A ty" et "Co u Ciebie" - mieux comprendre
+slug: 12-a-ty-et-co-u-ciebie-mieux-comprendre
+tags:
+  - basics
+  - memo
+---
+
+## A ty
+
+- "Jak się masz?" **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/12-1.mp3)** <br />
+Comment tu vas ?
+- "Dobrze, a Ty?" **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/12-2.mp3)** <br />
+Bien et toi ?
+- "Ja też" **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/12-3.mp3)** <br />
+Moi aussi
+
+## Co u Ciebie
+
+- Co tam / co u Ciebie? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/12-4.mp3)** <br />
+Comment ça va chez toi ?
+- Dobrze, a u Ciebie? **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/12-5.mp3)** <br />
+Bien et chez toi ?
+- U mnie też **[(prononciation)](https://cdn.selenuix.tools/polonais/public/audio/12-6.mp3)** <br />
+Chez moi aussi
+
+## Rappel
+Ne pas oublier ces règles de base, c'est très important !
