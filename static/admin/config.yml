@@ -18,16 +18,16 @@ collections:
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   fields:
     - { name: title, label: Title, widget: string }
-    - { name: body, label: Body, widget: markdown }
     - { name: slug, label: Slug, widget: string }
+    - { name: body, label: Body, widget: markdown }
     - label: "Tags"
       name: "tags"
       widget: "list"
-    - label: "Authors"
-      name: "authors"
+    - label: "Author"
+      name: "author"
       widget: "list"
       fields:
-        - { name: name, label: Name, widget: string }
-        - { name: title, label: Title, widget: string }
-        - { name: url, label: URL, widget: string }
-        - { name: imageUrl, label: ImageURL, widget: string }
+        - { name: author, label: Author, widget: string }
+        - { name: author_title, label: Title, widget: string }
+        - { name: author_url, label: URL, widget: string }
+        - { name: author_image_url, label: ImageURL, widget: string }
