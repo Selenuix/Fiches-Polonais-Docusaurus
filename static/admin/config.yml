@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: main 
+  branch: feature/netlify-cms
   repo: Selenuix/Fiches-Polonais-Docusaurus
 
 # These lines should *not* be indented
@@ -24,10 +24,10 @@ collections:
       name: "tags"
       widget: "list"
     - label: "Authors"
-      name: "authors" 
+      name: "authors"
       widget: "list"
       fields:
         - { name: name, label: Name, widget: string }
-        - { name: title, label: Title, widget: string } 
-        - { name: url, label: URL, widget: string } 
-        - { name: imageUrl, label: ImageURL, widget: string } 
+        - { name: title, label: Title, widget: string }
+        - { name: url, label: URL, widget: string }
+        - { name: imageUrl, label: ImageURL, widget: string }

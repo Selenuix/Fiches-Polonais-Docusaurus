@@ -1,5 +1,5 @@
 ---
-slug: 1-se-presenter-en-polonais
+slug: 2022-06-24-se-presenter-en-polonais
 title: 1. Se présenter en Polonais
 author: CISZEK Anthony
 author_title: Polish Learner
