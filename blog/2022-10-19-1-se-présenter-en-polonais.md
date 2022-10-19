@@ -4,11 +4,7 @@ slug: 1-se-presenter-en-polonais
 tags:
   - basics
   - introduction
-author:
-  - author: CISZEK Anthony
-    author_title: Polish Learner
-    author_url: https://github.com/Selenuix
-    author_image_url: https://avatars.githubusercontent.com/u/29508475?v=4
+author: []
 ---
 
 
