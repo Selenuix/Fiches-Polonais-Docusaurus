@@ -23,11 +23,3 @@ collections:
     - label: "Tags"
       name: "tags"
       widget: "list"
-    - label: "Author"
-      name: "author"
-      widget: "list"
-      fields:
-        - { name: author, label: Author, widget: string }
-        - { name: author_title, label: Title, widget: string }
-        - { name: author_url, label: URL, widget: string }
-        - { name: author_image_url, label: ImageURL, widget: string }
